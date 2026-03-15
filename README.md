@@ -75,7 +75,7 @@ To add a new category, add a `<div class="menu-section">` block in the HTML, a m
 | **Cuisine** | อาหารเวียดนาม / อีสาน / ไทย · เบียร์ · ไวน์ |
 | **Café hours** | 9:00 – 21:00 |
 | **Restaurant hours** | 11:00 – 21:00 |
-| **Hashtag** | #แหนมเมืองบ้านตาคลี |
+| **Hashtag** | #แหนมเนืองบ้านตาคลี |
 
 ---
 
